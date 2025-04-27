@@ -6,7 +6,7 @@ A in Terminal Mad Libs application.
 1. **Getting the Files**
 	Clone the repository.
 
-        `git clone https://github.com/Tobitheghost/A-bad-MadLibs-app.git`
+        git clone https://github.com/Tobitheghost/A-bad-MadLibs-app.git
 
 	Or download the Zip file.
 
@@ -15,8 +15,8 @@ A in Terminal Mad Libs application.
 
     Windows: 
 
-        `py Madlibs.py`
+        py Madlibs.py
     
     Mac/Linux: 
 
-        `python3 Madlibs.py`
+        python3 Madlibs.py
